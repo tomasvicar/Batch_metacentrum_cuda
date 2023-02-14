@@ -36,5 +36,5 @@ SCRIPTNAME=$CODEDIR/run_singularity.sh
 # change permisions for running the script
 chmod +x $SCRIPTNAME
 #run sungularity script
-singularity run --nv -B $SCRATCHDIR $SINGULARITYFILE $SCRIPTNAME $CODEDIR $RESULTSDIR $PBS_ARRAY_INDEX
+singularity run --nv -B $SCRATCHDIR $SINGULARITYFILE $SCRIPTNAME $CODEDIR $RESULTSDIR $index
 # provide input argumets for singularity script
