@@ -16,4 +16,4 @@ chmod u+r+x run_loop.sh
 ```/storage/brno6/home/tomasvicar```
 
 
-```!!! [] makes problem for glob package, use glob.escape to create working pash with [xx] !!!"```
+```!!! [] makes problem for glob package, use glob.escape to create working path with [xx] which is there for array job !!!"```
