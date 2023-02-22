@@ -14,3 +14,6 @@ chmod u+r+x run_loop.sh
 
 
 ```/storage/brno6/home/tomasvicar```
+
+
+```!!! [] makes problem for glob package, use glob.escape to create working pash with [xx] !!!"```
